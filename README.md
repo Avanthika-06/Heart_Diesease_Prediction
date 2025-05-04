@@ -1,4 +1,4 @@
-# Heart_Diesease_Prediction
+# Heart Disease Prediction
 
 This project presents a comprehensive heart disease prediction system built using Python and machine learning techniques. It utilizes a public dataset containing various health metrics and patient information to identify and classify the likelihood and severity of heart disease.
 
